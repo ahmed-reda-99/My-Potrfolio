@@ -28,6 +28,7 @@ nav {
 
 .Home {
     color: #de2f34 !important;
+    position: relative;
  
 }
 .Home :hover{
