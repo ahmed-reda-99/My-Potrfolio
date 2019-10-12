@@ -17,22 +17,7 @@ img {
 }
 
 nav {
-    height: 65px;
     background-color: #1a1a1a !important;
-    position: relative;
-}
-
-
-.navbar-brand{ height: 90%;
-    position: relative;
-}
-
-.brand_logo {
-    padding: 0px 10px !important;
-    width: 90px !important;
-    max-width: 90px !important;
-    height: 70px !important;
-    float: left !important;
 }
 
 .brand_title {
@@ -43,9 +28,11 @@ nav {
 
 .Home {
     color: #de2f34 !important;
+ 
+}
+.Home :hover{
     border-bottom: #ec3237 3px solid !important;
 }
-
 .navbar .nav-item .nav-link {
     color: #FFF;
     padding: 24px 20px;
@@ -56,7 +43,7 @@ nav {
 
 .navbar .nav-item .nav-link:hover {
     color: #de2f34;
-    border-bottom: #ec3237 3px solid !important;
+box-shadow: orange 2px 2px 2px 2px ;
 }
 
 .brand_title {
